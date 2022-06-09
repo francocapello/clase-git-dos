@@ -20,7 +20,7 @@ transformaciones*/
 .caja{
     width: 250px;
     height: 250px;
-    background-color: tomato;
+    background-color: blanchedalmond;
     margin: 2rem;
     border: 5px solid black;
     transition: 1s;
